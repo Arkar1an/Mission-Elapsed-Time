@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mission Elapsed Time</string>
+    <string name="new_event">New Event</string>
+    <string name="set_alarms">Set Alarms</string>
+    <string name="cancel_alarms">Cancel Alarms</string>
+
+    <string name="met">0:00</string>
+    <string name="event_at_met">No Events Yet</string>
+
+    <string name="description_text">Description goes here</string>
+    <string name="save_button">Save Changes</string>
+    <string name="discard_button">Discard Changes</string>
+    <string name="delete_button">Delete Event</string>
+
+
+</resources>

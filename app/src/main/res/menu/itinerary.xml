@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/new_event"
+        android:title="@string/new_event"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/set_alarms"
+        android:title="@string/set_alarms"
+        app:showAsAction="never" />
+    <item android:id="@+id/cancel_alarms"
+        android:title="@string/cancel_alarms"
+        app:showAsAction="never" />
+</menu>
